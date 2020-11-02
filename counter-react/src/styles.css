@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-image: url(https://wallpaperaccess.com/full/86289.jpg);
+    background-position: center;
+  }
+  .increment {
+    background-color: chartreuse
+  }
+  .form {
+    display: flex;
+    justify-content: center;
+  }
+  h1 {
+    color:chartreuse;
+}
